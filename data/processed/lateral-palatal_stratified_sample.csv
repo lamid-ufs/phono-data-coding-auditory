@@ -1,0 +1,81 @@
+entrevista,trilha,contexto,item_lexical,contexto_anterior,contexto_posterior,tonicidade,classe_gramatical,deslocamento,sexo,tempo_curso,tempo_ocorrencia,monitoramento
+02ent,ANT1MI,ah velho acontecia de tudo a gente,velho,[ɛ],[ʊ],postônica,adjetivo,desl1,masculino,inicio,404522,M1
+03ent,CAI1MI,principalmente realizada de homens para mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl1,masculino,inicio,2123555,M2
+04ent,FRA1FI,mulher e continuam batendo as mulheres continuam morrendo tem a lei,mulheres,[u],[ɛ],tônica,substantivo,desl1,feminino,inicio,2071255,M2
+04ent,FRA1FI,tipo eita caralho mesmo eita caralho esqueci de fazer isso,caralho,[a],[ʊ],postônica,substantivo,desl1,feminino,inicio,2485812,M2
+06ent,ISA1F1,nem olha é só uma mulher ali então pronto,mulher,[u],[ɛ],tônica,substantivo,desl1,feminino,inicio,1836350,M2
+08ent,DOCPC,você acha que as mulheres atualmente tem conquistado,mulheres,[u],[ɛ],tônica,substantivo,desl1,feminino,inicio,2092530,M2
+09ent,LAR1FI,jardim porque tem né conhecimento melhor,melhor,[ɛ],[ɔ],tônica,advérbio,desl1,feminino,inicio,268250,M1
+09ent,LAR1FI,de tipo melhorar,melhorar,[ɛ],[ɔ],pretônica,verbo,desl1,feminino,inicio,1679460,M1
+11ent,ALI1FI,eh eu acho que as mulheres tão criando espaço sim acho,mulheres,[u],[ɛ],tônica,substantivo,desl1,feminino,final,1837199,M2
+14ent,CAR1FF,até que são melhores hes mas,melhores,[ɛ],[ɔ],tônica,adjetivo,desl1,feminino,final,1952470,M2
+14ent,CAR1FF,como uma mulher heterossexual,mulher,[u],[ɛ],tônica,substantivo,desl1,feminino,final,2689550,M2
+15ent,DAN1FF,tipo a mulher era casa e ela sofria,mulher,[u],[ɛ],tônica,substantivo,desl1,feminino,final,3268302,M2
+15ent,DAN1FF,não dependo dele eu posso trabalhar e manter minha filha,trabalhar,[a],[a],tônica,verbo,desl1,feminino,final,3549832,M2
+16ent,DAN1MF,já participei de bolsa trabalho,trabalho,[a],[ʊ],postônica,substantivo,desl1,feminino,final,1680950,M1
+16ent,DAN1MF,tanto homem quanto mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl1,feminino,final,2699150,M2
+17ent,GON1MF,homens e mulheres sofrem violências iguais,mulheres,[u],[ɛ],tônica,substantivo,desl1,feminino,final,1813567,M2
+19ent,BRE3FI,mulher,mulher,[u],[ɛ],tônica,substantivo,desl2,feminino,inicio,1872420,M2
+20ent,BRU2MI,chegar o horário de eu trabalhar eu nao conseguir ficar acumulando,trabalhar,[a],[a],tônica,verbo,desl2,feminino,inicio,993351,M1
+20ent,BRU2MI,trabalho e ficar ni um trabalho pro resto da minha vida,trabalho,[a],[ʊ],postônica,substantivo,desl2,feminino,inicio,1940648,M2
+20ent,BRU2MI,onde coloca a mulher ni um local mais vulnerável,mulher,[u],[ɛ],tônica,substantivo,desl2,feminino,inicio,2868889,M2
+23ent,GAB2MI,coisas que a que a mulher não pode,mulher,[u],[ɛ],tônica,substantivo,desl2,masculino,inicio,2401500,M2
+24ent,DOCPC,dá pra trabalhar e estudar,trabalhar,[a],[a],tônica,verbo,desl2,masculino,inicio,270980,M1
+25ent,DOCmasculino,mesma forma que atinge as mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl2,masculino,final,2375292,M2
+26ent,DAN2MF,tem até a necessidade de trabalhar por conta,trabalhar,[a],[a],tônica,verbo,desl2,masculino,final,1324940,M1
+26ent,DAN2MF,sempre dessa forma diferente das mulheres acho que isso acaba prejudicando,mulheres,[u],[ɛ],tônica,substantivo,desl2,masculino,final,2653480,M2
+27ent,RIV3MF,teria viajado pra apresentar um trabalho por exemplo não teria,trabalho,[a],[ʊ],postônica,substantivo,desl2,masculino,final,1173640,M1
+28ent,DOCPC,violência contra mulher,mulher,[u],[ɛ],tônica,substantivo,desl2,feminino,final,2804555,M2
+29ent,DOCBP,se as mulheres não usassem roupas tão curtas,mulheres,[u],[ɛ],tônica,substantivo,desl2,feminino,final,1849480,M2
+29ent,VAG2FF,n não pagaria do meu trabalho do meu suor uma viagem,trabalho,[a],[ʊ],postônica,substantivo,desl2,feminino,final,756900,M1
+30ent,ISA2FF,cabelo comecei a ver muitas mulheres comecei a ver muitas mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl2,feminino,final,1578459,M1
+31ent,FRA3MI,ter um trabalho informal já com pequena empresa,trabalho,[a],[ʊ],postônica,substantivo,desl3,masculino,inicio,225660,M1
+31ent,FRA3MI,mais homens do que mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl3,masculino,inicio,2364680,M2
+32ent,MAI3MI,eu acho que a as mulheres deveriam ganhar muito mas muito,mulheres,[u],[ɛ],tônica,substantivo,desl3,masculino,inicio,1597730,M1
+32ent,MAI3MI,e dizer olha se vocês não tão fazendo,olha,[ɔ],[ə],postônica,verbo,desl3,masculino,inicio,1727800,M1
+33ent,DOCFR,mulheres e homens da mesma forma,mulheres,[u],[ɛ],tônica,substantivo,desl3,masculino,inicio,1229552,M1
+34ent,MIR3FI,feito pra ela acredito que mulher pode casar cedo ou não,mulher,[u],[ɛ],tônica,substantivo,desl3,feminino,inicio,2030890,M2
+35ent,DOCVN,você acha que homens e mulheres,mulheres,[u],[ɛ],tônica,substantivo,desl3,feminino,inicio,2111430,M2
+36ent,AMA3FI,olha oos tempos antigos a mulher só andava toda coberta e,mulher,[u],[ɛ],tônica,substantivo,desl3,feminino,inicio,1636745,M1
+40ent,DEY3MF,ehes ele se saiu melhor que eu,melhor,[ɛ],[ɔ],tônica,advérbio,desl3,masculino,final,1511065,M1
+41ent,DOCVN,as mulheres os gays as lésbicas tem,mulheres,[u],[ɛ],tônica,substantivo,desl3,masculino,final,2415833,M2
+44ent,BAR3FF,não vai definir nada na mulher a mulher faz o que,mulher,[u],[ɛ],tônica,substantivo,desl3,feminino,final,1675791,M1
+45ent,ERI3FF,eu não escolhi não mulher eu acabei passando aí eu,mulher,[u],[ɛ],tônica,substantivo,desl3,23,final,1872124,M2
+45ent,ERI3FF,em relação à escolha,escolha,[o],[ə],postônica,substantivo,desl3,23,final,3868058,M2
+46ent,ABN4MI,olha elas são muito boas mas,olha,[ɔ],[ə],postônica,verbo,desl4,masculino,inicio,1159525,M1
+47ent,ENI4MI,pra ter uma melhoria eu acho que,melhoria,[ɛ],[o],pretônica,substantivo,desl4,masculino,inicio,1771923,M1
+49ent,ISA4FI,eficientes e capazes as mulheres sempre foram,mulheres,[u],[ɛ],tônica,substantivo,desl4,feminino,inicio,1842870,M2
+51ent,DOCVN,palavras né melhora a escrita,melhora,[ɛ],[ɔ],tônica,substantivo,desl4,feminino,inicio,2408640,M2
+51ent,DOCVN,tratando diferente por você ser mulher,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,inicio,2803480,M2
+52ent,JHO4MI,políticas de de inclusão das mulheres de igualdade,mulheres,[u],[ɛ],tônica,substantivo,desl4,masculino,inicio,1668130,M1
+55ent,DOCmasculino,eh você acha que as mulheres atualmente elas têm conquistado muito,mulheres,[u],[ɛ],tônica,substantivo,desl4,masculino,final,2101126,M2
+55ent,PED4MF,durmo melhor eu me alimento melhor,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,masculino,final,865145,M1
+56ent,DOCmasculino,tendem a estudar e a trabalhar ao mesmo tempo o rendimento,trabalhar,[a],[a],tônica,verbo,desl4,masculino,final,196510,M1
+57ent,ANT4FF,foieu pensei que iria lidar melhor com a questão de ter,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,feminino,final,1227660,M1
+58ent,ISA4FF,quanto público a mulher ela se sente insegura muitas,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,final,2286720,M2
+60ent,LAV4FF,a escola pública antigamente era melhor,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,feminino,final,1564565,M1
+61ent,VIC4MF,pra trabalhar numa empresa de logística,trabalhar,[a],[a],tônica,verbo,desl4,masculino,final,529527,M1
+61ent,VIC4MF,então trabalho em si,trabalho,[a],[ʊ],postônica,substantivo,desl4,masculino,final,729677,M1
+62ent,FLA4MI,que elas so que a mulher hoje em dia ainda sofre,mulher,[u],[ɛ],tônica,substantivo,desl4,masculino,inicio,1574760,M1
+63ent,JOS4MI,melhorando a vida pras pessoas e,melhorando,[ɛ],[ɔ],pretônica,verbo,desl4,masculino,inicio,1100050,M1
+63ent,JOS4MI,a gente vê que a mulher também tem a capacidade de,mulher,[u],[ɛ],tônica,substantivo,desl4,masculino,inicio,1375035,M1
+63ent,JOS4MI,uma organização melhor,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,masculino,inicio,1948480,M2
+64ent,DOCPC,que diga que se as mulheres não andassem com roupas curtas,mulheres,[u],[ɛ],tônica,substantivo,desl4,masculino,inicio,2966260,M2
+65ent,BIA4FI,então a melhor maneira a mim na minha,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,feminino,inicio,1585444,M1
+65ent,BIA4FI,que melhorou babastante mas precisa melhorar muito mais né,melhorar,[ɛ],[ɔ],pretônica,verbo,desl4,feminino,inicio,2789201,M2
+66ent,ISA4FI,em dia olha onde as mulheres estão hes estão nas universidades,mulheres,[u],[ɛ],tônica,substantivo,desl4,feminino,inicio,1827310,M2
+67ent,BEA4FI,mulher,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,inicio,2416273,M2
+68ent,MAR4FI,de hes pensar que a mulher num vai ser tão capaz,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,inicio,1191310,M1
+69ent,DOCVN,a violência atinge homem e mulher da mesma forma,mulher,[u],[ɛ],tônica,substantivo,desl4,masculino,final,2634855,M2
+69ent,IGO4MF,não tem muita oferta de trabalho,trabalho,[a],[ʊ],postônica,substantivo,desl4,masculino,final,63910,M1
+69ent,IGO4MF,olha eu assim como hes eh,olha,[ɔ],[ə],postônica,verbo,desl4,masculino,final,3242640,M2
+70ent,AND4MF,e as mulheres estão bem mais determinadas,mulheres,[u],[ɛ],tônica,substantivo,desl4,masculino,final,1638391,M1
+71ent,VAL4MF,não é falso com a mulher tipo,mulher,[u],[ɛ],tônica,substantivo,desl4,masculino,final,2516060,M2
+72ent,DOCmasculino,a violência atinge homens e mulheres da mesma forma,mulheres,[u],[ɛ],tônica,substantivo,desl4,feminino,final,2106873,M2
+72ent,AUR4FF,vamo ver se melhora,melhora,[ɛ],[ɔ],tônica,substantivo,desl4,feminino,final,1956828,M2
+73ent,MIK4FF,eh aprendendo a ler melhor né,melhor,[ɛ],[ɔ],tônica,advérbio,desl4,feminino,final,1670625,M1
+73ent,MIK4FF,dos gêneros como travestis ou mulheres ou com nenhum deles mulher,mulheres,[u],[ɛ],tônica,substantivo,desl4,feminino,final,2642930,M2
+74ent,DOCFR,que a violência contra a mulher ela ela vai mais pra,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,final,2089040,M2
+75ent,ISY4FF,e hoje eu estudo e trabalho,trabalho,[a],[ʊ],postônica,substantivo,desl4,feminino,final,27965,M1
+75ent,ISY4FF,em gestão financeira comecei a trabalhar como coach financeira,trabalhar,[a],[a],tônica,verbo,desl4,feminino,final,150200,M1
+75ent,ISY4FF,nós não somo hes como mulher nós não somos sexo frágil,mulher,[u],[ɛ],tônica,substantivo,desl4,feminino,final,2335110,M2
