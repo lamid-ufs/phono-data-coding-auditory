@@ -1,7 +1,5 @@
 # **Data**
 
-The `data` directory stores the complete dataset used in the project. Ideally, it is organized into three main subdirectories:
-
 ### 📁 `raw`
 Contains the spreadsheet with all occurrences of the palatal nasal extracted from the transcripts.
 
