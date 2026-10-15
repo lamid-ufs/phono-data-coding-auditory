@@ -1,12 +1,12 @@
-# **Dados**
-Na pasta `data`, são armazenados todo o conjunto de dados utilizado no projeto. Idealmente, estruturados em três subpastas principais:
+# **Data**
 
-### 📁 raw
-Contém a planilha com todas as ocorrências da nasal palatal extraídas das transcrições.
+The `data` directory stores the complete dataset used in the project. Ideally, it is organized into three main subdirectories:
 
-### 📁 processed
-Contém a planilha da amostra estratificada e as planilhas das anotações, especificadas por `annotator-N` no início do nome.
+### 📁 `raw`
+Contains the spreadsheet with all occurrences of the palatal nasal extracted from the transcripts.
 
-### 📁 finalized
-Contém a planilha utilizada para a realização dos cálculos estatísticos.
+### 📁 `processed`
+Contains the stratified sample spreadsheet and the annotation spreadsheets, identified by `annotator-N` at the beginning of their filenames.
 
+### 📁 `finalized`
+Contains the spreadsheets used to perform the statistical analyses.
