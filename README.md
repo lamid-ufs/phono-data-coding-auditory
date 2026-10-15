@@ -1,4 +1,5 @@
 <a href="lamid.ufs.br"><img  src="https://github.com/lamid-ufs/ASPBr/blob/6508a5eb2548ba68c98749f7ceb916bb05da0317/src/streamlit/imgs/lamid-logo-full.png?raw=true" alt="LAMID" height="34" /></a>
+<!--
 <p>
   <a align="left" href="https://doi.org/{insira o link doi aqui}">
     <img src="https://img.shields.io/badge/Paper-{INSIRA O DOI DO ARTIGO}-blue" alt="DOI">
@@ -7,59 +8,36 @@
     <img align="right" src="https://img.shields.io/badge/Code-{INSIRA O DOI DO ZENODO}-blue" alt="DOI">
   </a>
 </p>
+-->
   
-  
-# R3PP - Repository for Reproducible Research in Portuguese Processing
+# Reproducibility in the auditory coding of phonological data: sociolinguistic salience and coding bias in Brazilian Portuguese
 
-> Responsável 1;  Responsável 2.
+> Raquel Freitag; Túlio Gois; Manoel Siqueira; Neyriane Conceição; Yasmine Cruz.
 
-Insira aqui uma breve descrição do trabalho.
+Repository for the paper titled *"Reproducibility in the Auditory Coding of Phonological Data: Sociolinguistic Salience and Coding Bias in Brazilian Portuguese"*, accepted for presentation at the 54th New Ways of Analyzing Variation (NWAV).
 
-### Estrutura do repositório
+### Repository Structure
 
-#### 📁 data
-Contém todos os dados do projeto.
+#### 📁 `data`
+Contains the data used in the study.
 
-#### 📁 models
-Modelos treinados. Esta pasta armazena os outputs do processo de treinamento.
+#### 📁 `notebooks`
+Jupyter notebooks containing the scripts for data processing and analysis.
 
-#### 📁 notebooks
-Notebooks Jupyter.
-
-#### 📁 docs
-Resultados gerados, manuscritos e visualizações.
-
-#### 📁 src
-Todo o código-fonte do projeto.
+#### 📁 `docs`
+Visualizations generated from the analysis.
 
 #### 📄 `requirements`
-Dependências para executar os códigos.
+Dependencies required to run the code.
 
-### Ambiente e execução
-#### Infraestrutura
-A execução dos códigos desenvolvidos ocorreu em uma máquina com as especificações a seguir:
-```
-OS:  
-CPU:  
-RAM:  
-GPU:
-{Linguagem de programação}: {versão}
-...
-```
+### Environment and Execution
 
-Caso outros softwares ou dependências tenham sido utilizadas e não possam ser inseridas no arquivo `requirements`, liste-as abaixo:
-```
-* Software - Versão XYZ
-```
+#### Instructions
+To reproduce the main results reported in the paper, run the notebooks in the order indicated by their numbering.
 
-#### Instruções de execução
-Siga estes passos para reproduzir os resultados principais do trabalho:
-1. Primeiro passo;
-2. Segundo passo;
-3. Terceiro passo.
-
-
+<!--
 ### Como citar?
+
 #### Artigo
 Para citar este trabalho, utilize a referência abaixo ou [acesse o artigo completo](https://doi.org/insira-o-doi/).
 
@@ -73,7 +51,5 @@ Para citar especificamente este repositório de artefatos (código/dados), use o
 ```
 Insira a referência (preferencialmente BibTeX) aqui. 
 ```
-
-### Licença
-Especifique a licença do seu projeto, se houver. 
+-->
 
